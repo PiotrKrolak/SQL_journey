@@ -1,10 +1,13 @@
 # SQL_journey
 My personal SQL journal and knowledge refresher. This repository serves as a permanent log of all the SQL commands, concepts, and tricky queries I've learned, helping me revisit key concepts quickly.
 
+# DATA source
+https://www.kaggle.com/datasets
 
-# 📓 SQL Journey: The Definitive Learning Log
 
-## 🚀 Wprowadzenie
+# SQL Journey: The Definitive Learning Log
+
+## Wprowadzenie
 
 Ten katalog jest moim osobistym **Dziennikiem SQL (SQL Journal)** oraz zbiorem szybkich przypominaczy (**Knowledge Refresher**). Służy jako stały rejestr wszystkich komend, koncepcji i trudniejszych zapytań, które poznałem.
 
@@ -13,11 +16,11 @@ Głównym celem jest:
 2.  **Śledzenie Postępu:** Dokumentowanie przejścia od podstawowych zapytań `SELECT` do zaawansowanych funkcji okienkowych.
 3.  **Wielodostępność:** Używam tego jako głównego punktu odniesienia, niezależnie od tego, z jakim dialektem SQL aktualnie pracuję (np. PostgreSQL, SQLite, MySQL).
 
-## ⚙️ Struktura Repozytorium
+## Struktura Repozytorium
 
 Zapytania i skrypty są pogrupowane tematycznie, aby ułatwić szybkie odnajdywanie konkretnych zagadnień.
 
-| Folder | Zawartość | Cel |
+| Folder | Zawarto | Cel |
 | :--- | :--- | :--- |
 | `01_SETUP/` | Skrypty DDL. | Tworzenie baz danych, tabel i definiowanie relacji. |
 | `02_BASICS/` | Podstawowe zapytania. | `SELECT`, `FROM`, `WHERE`, `ORDER BY`, filtrowanie i sortowanie danych. |
@@ -28,7 +31,7 @@ Zapytania i skrypty są pogrupowane tematycznie, aby ułatwić szybkie odnajdywa
 | `DATA/` | Pliki źródłowe. | Pliki `.csv` lub `.json` używane do importu i testowania zapytań. |
 | `NOTES/` | Notatki tekstowe. | Różnice dialektów, ściągawki ze składni. |
 
-## 🎯 Obecny Cel i Zadanie Startowe
+## Obecny Cel i Zadanie Startowe
 
 ### Zadanie Startowe: **Baza Filmów**
 
@@ -37,7 +40,7 @@ Zadaniem wprowadzającym było stworzenie prostej tabeli do śledzenia ulubionyc
 * `03_DATA_MANIPULATION/insert_films.sql`
 * `02_BASICS/list_all_films.sql`
 
-### 🚧 Plan na Kolejny Tydzień
+### Plan na Kolejny Tydzie
 
 * [ ] Ukończenie wszystkich ćwiczeń w folderze `02_BASICS/`.
 * [ ] Zrozumienie różnicy między `WHERE` a `HAVING`.
